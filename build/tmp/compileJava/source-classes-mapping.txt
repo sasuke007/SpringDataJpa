@@ -1,0 +1,27 @@
+dev/rohit/entity/Student.java
+ dev.rohit.entity.Student
+ dev.rohit.entity.Student$StudentBuilder
+dev/rohit/repository/PersonRepository.java
+ dev.rohit.repository.PersonRepository
+dev/rohit/entity/Review.java
+ dev.rohit.entity.Review
+dev/rohit/entity/Passport.java
+ dev.rohit.entity.Passport
+ dev.rohit.entity.Passport$PassportBuilder
+dev/rohit/dto/Book.java
+ dev.rohit.dto.Book
+dev/rohit/entity/Course.java
+ dev.rohit.entity.Course
+dev/rohit/web/rest/controllers/BooksController.java
+ dev.rohit.web.rest.controllers.BooksController
+dev/rohit/entity/Book.java
+ dev.rohit.entity.Book
+dev/rohit/repository/CourseRepository.java
+ dev.rohit.repository.CourseRepository
+dev/rohit/entity/Person.java
+ dev.rohit.entity.Person
+ dev.rohit.entity.Person$PersonBuilder
+dev/rohit/repository/StudentRepository.java
+ dev.rohit.repository.StudentRepository
+dev/rohit/Application.java
+ dev.rohit.Application
